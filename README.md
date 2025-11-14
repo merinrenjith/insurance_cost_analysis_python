@@ -29,10 +29,8 @@ impact medical insurance costs.
 ---
 
 ## 📁 Project Structure  
-- `insurance_costs_analysis.ipynb` – Complete analysis notebook  
-- `insurance_clean.csv` – Clean dataset  
-- `outputs/` – Summary tables (CSV files)  
-- `visualizations/` – Plots created during the analysis  
+- `insurance_costs_analysis.ipynb.ipynb` – Complete analysis notebook  
+-  Insurance_Cost_Analysis_Using_Python
 
 ---
 
@@ -63,3 +61,5 @@ The Southeast region shows the highest charges on average.
 ## ✨ Author  
 **Merin Renjith**  
 Aspiring Healthcare Data Analyst • Python • SQL • Power BI
+
+#Python #Pandas #DataAnalysis #HealthcareAnalytics
